@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Чернова\intmap\intmap\obj\Debug\intmap.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Чернова\intmap\intmap\obj\Debug\intmap.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Чернова\intmap\intmap\obj\Debug\intmap.Form1.resources
+C:\Users\student\Desktop\Чернова\intmap\intmap\obj\Debug\intmap.Properties.Resources.resources
+C:\Users\student\Desktop\Чернова\intmap\intmap\obj\Debug\intmap.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Чернова\intmap\intmap\obj\Debug\intmap.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Чернова\intmap\intmap\bin\Debug\intmap.exe.config
+C:\Users\student\Desktop\Чернова\intmap\intmap\bin\Debug\intmap.exe
+C:\Users\student\Desktop\Чернова\intmap\intmap\bin\Debug\intmap.pdb
+C:\Users\student\Desktop\Чернова\intmap\intmap\obj\Debug\intmap.exe
+C:\Users\student\Desktop\Чернова\intmap\intmap\obj\Debug\intmap.pdb
